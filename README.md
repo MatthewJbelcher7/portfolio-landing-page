@@ -23,7 +23,9 @@ _This is demonstration of what we have learned in week one and a location to cal
 * _Use "Back" button to naviagate back home_
 
 ## Known Bugs
-*
+* _Need to add link to Linkedin_
+* _Rework aboutme page_
+* _Flesh out Projects page_
 
 
 ## License
