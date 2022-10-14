@@ -1,0 +1,74 @@
+h1  {
+  text-align: center;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+img {
+    float: right;
+}
+
+.Sidebar {
+  height: 100%;
+  width: 400px;
+  position: fixed;
+  z-index: 13;
+  overflow-x: hidden;
+  padding-top: 30%;
+  font-size: 375%;
+}
+
+.AboutPhotos {
+  width: auto;
+  text-align: center;
+  box-sizing: border-box;
+  border: solid rgb(9, 253, 233);
+  border-width: 7px;
+  background-color: rgb(255, 145, 0);
+  float: left;
+  font-size: 200%;
+}
+
+.AboutPhotos img {
+  margin:auto;
+  width: 50%;
+  height:auto;
+  display: block;
+}
+
+.Narem img {
+  margin:auto;
+  width: 25%;
+  height:auto;
+  display: block
+}
+
+.Intrests img {
+  margin:auto;
+  width: 40%;
+  height:auto;
+  display: block
+}
+
+.HOME {
+  float: right;
+  height: 100%;
+  width: 300px;
+  position: fixed;
+  z-index: 13;
+  overflow-x: hidden;
+  padding-top: 0%;
+  font-size: 400%;
+}
+
+span {
+  font-family: 'Courier New', Courier, monospace;
+  background-color: gold;
+}
+
+.Smarts {
+  height: 100%;
+  width: auto;
+  overflow-x: hidden;
+  padding-top: 0%;
+  font-size: 200%;
+}
