@@ -19,7 +19,8 @@ _This is demonstration of what we have learned in week one and a location to cal
 
 * _Clone this repository to your desktop_
 * _Open Matthew.Belcher.html in your browser_
-* _Navigate using buttons or back arrows in browser_
+* _Navigate using side bar buttons_
+* _Use "Back" button to naviagate back home_
 
 ## Known Bugs
 *
@@ -29,4 +30,4 @@ _This is demonstration of what we have learned in week one and a location to cal
 
 _MIT_
 
-Copyright (c) _8/5/2022_ _Matthew_Belcher_
+Copyright (c) _10/14/2022_ _Matthew_Belcher_
