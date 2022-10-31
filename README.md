@@ -1,5 +1,7 @@
 # _Portfolio-landing-Page_
 
+https://github.com/MatthewJbelcher7/portfolio-landing-page
+
 #### By _Matthew_Belcher_
 
 #### _A Beginning HTML for all of my projects_
@@ -18,7 +20,8 @@ _This is demonstration of what we have learned in week one and a location to cal
 ## Setup/Installation Requirements
 
 * _Clone this repository to your desktop_
-* _Open Matthew.Belcher.html in your browser_
+* _Navigate to portfolio-landing-page folder_
+* _Open index.html in your browser_
 * _Navigate using side bar buttons_
 * _Use "Back" button to naviagate back home_
 
@@ -30,6 +33,6 @@ _This is demonstration of what we have learned in week one and a location to cal
 
 ## License
 
-_MIT_
+_MIT_(https://opensource.org/licenses/MIT)_
 
 Copyright (c) _10/14/2022_ _Matthew_Belcher_

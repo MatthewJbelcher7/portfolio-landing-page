@@ -17,7 +17,7 @@ img {
   font-size: 375%;
 }
 
-.AboutPhotos {
+.aboutphotos {
   width: auto;
   text-align: center;
   box-sizing: border-box;
@@ -28,28 +28,28 @@ img {
   font-size: 200%;
 }
 
-.AboutPhotos img {
+.aboutphotos img {
   margin:auto;
   width: 50%;
   height:auto;
   display: block;
 }
 
-.Narem img {
+.narem img {
   margin:auto;
   width: 25%;
   height:auto;
   display: block
 }
 
-.Intrests img {
+.intrests img {
   margin:auto;
   width: 40%;
   height:auto;
   display: block
 }
 
-.HOME {
+.home {
   float: right;
   height: 100%;
   width: 300px;
@@ -65,7 +65,7 @@ span {
   background-color: rgb(199, 199, 199);
 }
 
-.Smarts {
+.smarts {
   height: 100%;
   width: auto;
   overflow-x: hidden;
