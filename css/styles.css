@@ -89,3 +89,14 @@ h1  {
   text-align: center;
   font-family: 'Courier New', Courier, monospace;
 }
+
+.narem {
+  float:left;
+}
+
+.bit {
+  float:right;
+}
+.cuddles {
+  float:center;
+}
