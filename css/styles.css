@@ -100,3 +100,10 @@ h1  {
 .cuddles {
   float:center;
 }
+
+.projects {
+  padding: 45px;
+  background: #2a2b2b;
+  color: white;
+  font-size: 20px;
+}
